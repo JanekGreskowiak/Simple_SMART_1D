@@ -1,0 +1,8 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - ipywidgets
+  - voila
+  - ipympl
